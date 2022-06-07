@@ -43,7 +43,7 @@ Result log in left screen [Screenshot 5]
 
 <img width="1503" alt="Screen Shot 2022-06-07 at 11 24 24 AM" src="https://user-images.githubusercontent.com/73167411/172295875-dbfcbe83-3a7a-4939-a9d3-d6f507a88129.png">
 
-Report Fie in html format [Screenshot 6]
+Report File in html format [Screenshot 6]
 
 <img width="1194" alt="Screen Shot 2022-06-07 at 11 17 53 AM" src="https://user-images.githubusercontent.com/73167411/172295964-b248b25c-6773-41ee-94a4-ada97140d037.png">
 

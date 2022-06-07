@@ -17,15 +17,15 @@ Instruction:
 
 ----------------------------------------------------------
 
-Folder structure 
+Folder structure [Screenshot 1]
 
 <img width="1352" alt="Screen Shot 2022-06-07 at 11 25 00 AM" src="https://user-images.githubusercontent.com/73167411/172295681-e89141db-5ee9-4969-8241-7293f68a7667.png">
 
-Result
+Result [Screenshot 2]
 
 <img width="673" alt="Screen Shot 2022-06-07 at 11 18 07 AM" src="https://user-images.githubusercontent.com/73167411/172295726-879106f0-92c0-45f7-b8fe-fb587662da20.png">
 
-Functions
+Functions [Screenshot 3]
 
 <img width="677" alt="Screen Shot 2022-06-07 at 11 18 21 AM" src="https://user-images.githubusercontent.com/73167411/172295735-5afda194-1c13-448b-9d28-8c678aebaa74.png">
 

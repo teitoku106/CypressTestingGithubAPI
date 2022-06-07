@@ -17,6 +17,11 @@ Instruction:
 
 ----------------------------------------------------------
 
+Coding Challenge Requirements
+
+<img width="977" alt="Screen Shot 2022-06-07 at 11 30 38 AM" src="https://user-images.githubusercontent.com/73167411/172296316-6f8c7bd0-95af-4a38-9d83-dd3419485777.png">
+
+
 Folder structure [Screenshot 1]
 
 <img width="1352" alt="Screen Shot 2022-06-07 at 11 25 00 AM" src="https://user-images.githubusercontent.com/73167411/172295681-e89141db-5ee9-4969-8241-7293f68a7667.png">

@@ -22,7 +22,7 @@ Coding Challenge Requirements
 <img width="974" alt="Screen Shot 2022-06-07 at 11 31 13 AM" src="https://user-images.githubusercontent.com/73167411/172296385-9a899183-c5a1-4c34-85c2-ccefc6e29ad2.png">
 
 
-Folder structure [Screenshot 1]
+Folder structure - Test File [Screenshot 1]
 
 <img width="1352" alt="Screen Shot 2022-06-07 at 11 25 00 AM" src="https://user-images.githubusercontent.com/73167411/172295681-e89141db-5ee9-4969-8241-7293f68a7667.png">
 
